@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://files.catbox.moe/ia9fhd.webp" alt="animated">
 </p>
+<p align="center">
+  <img src="https://files.catbox.moe/te9rzw.png">
+</p>
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>&emsp;&emsp;&emsp;
   <a href="https://petalemporium.straw.page">sys</a>&emsp;&emsp;&emsp;
