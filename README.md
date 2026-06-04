@@ -1,5 +1,7 @@
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>
+  <a href="https://petalemporium.straw.page">sys</a>
+  <a href="https://hisbeauty.carrd.co/">carrd</a>
 </p>
 
 <p align="center" dir="auto">
