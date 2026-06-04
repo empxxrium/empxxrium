@@ -7,7 +7,8 @@
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>&emsp;&emsp;&emsp;
   <a href="https://petalemporium.straw.page">sys</a>&emsp;&emsp;&emsp;
-  <a href="https://hisbeauty.carrd.co/">carrd</a>
+  <a href="https://hisbeauty.carrd.co/">carrd</a> 
+
 </p>
 <p align="center">
   <img width="20" height="20" src="https://files.catbox.moe/kbalvp.gif">&emsp;&emsp;&emsp;-𝘏𝘦'𝘴 𝘣𝘦𝘦𝘯 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘢𝘴 𝘭𝘰𝘯𝘨 𝘢𝘴 𝘐 𝘩𝘢𝘷𝘦, 𝘐 𝘵𝘳𝘶𝘴𝘵 𝘩𝘪𝘮. 
