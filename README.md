@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://files.catbox.moe/ia9fhd.webp" alt="animated">
+  <img src="https://files.catbox.moe/4m092d.png">
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/4m092d.png">
+  <img src="https://files.catbox.moe/ia9fhd.webp" alt="animated">
 </p>
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>&emsp;&emsp;&emsp;
