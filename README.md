@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <https://files.catbox.moe/ia9fhd.webp>
+</p>
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>
   <a href="https://petalemporium.straw.page">sys</a>
