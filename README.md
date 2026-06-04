@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/4m092d.png" style="max-width: 40%;"></p>
+  <img src="https://files.catbox.moe/4m092d.png">
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/ia9fhd.webp" alt="animated">
