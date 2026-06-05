@@ -6,6 +6,10 @@
   <img src="https://files.catbox.moe/ia9fhd.webp" alt="animated">
 </p>
 
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=empxxrium&color=8ea7c3&style=flat&label=꩜&abbreviated=true)
+</p>
+
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>&emsp;&emsp;&emsp;
   <a href="https://petalemporium.straw.page">sys</a>&emsp;&emsp;&emsp;
