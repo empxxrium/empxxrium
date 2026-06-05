@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=empxxrium&color=8ea7c3&style=flat&label=꩜&abbreviated=true)
-</p>
+  <img src="https://komarev.com/ghpvc/?username=empxxrium&color=8ea7c3&style=flat&label=꩜&abbreviated=true">
+</a>
 
 <p align="center"> 
   <a href="https://empxrium.atabook.org/">ata</a>&emsp;&emsp;&emsp;
