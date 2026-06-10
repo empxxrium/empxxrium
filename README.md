@@ -22,6 +22,7 @@
 <p align="center">ᴍʟᴍ&emsp;ɪsғᴘ&emsp;6ᴡ5
 <p align="center"> 𐔌&emsp;𝗹𝗲𝗼𝗻 &emsp;&emsp;⊹&emsp;&emsp;𝘃𝗶𝗹&emsp;.ᐟ
 <p align="center"> ʜᴇ / ʜɪᴍ&emsp;&emsp;ᴅɪᴅ
+<p align="center"> 𝗶𝘀𝗳𝗽 𝟲𝘄𝟱&emsp;&emsp;ˢˣ²&emsp;ˢᵖ³&emsp;ˢᵒ⁶
 
 --- 
 
